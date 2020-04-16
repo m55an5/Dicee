@@ -18,7 +18,8 @@ class ViewController: UIViewController {
     
     func updateImages(){
         
-        // just a comment to update git for testing 
+        // just a comment to update git for testing
+        // another push test
         randomDice1 = Int(arc4random_uniform(6))
         randomDice2 = Int(arc4random_uniform(6))
         
